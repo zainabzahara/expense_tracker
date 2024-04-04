@@ -47,4 +47,4 @@ if __name__ == '__main__':
 ```
 With this, the expense tracker project is ready for use!
 
-Feel free to contribute, enhance, or customize it further as per your requirements. Happy tracking! 📊💰
+Feel free to contribute, enhance, or customize it further as per your requirements. Happy tracking! 
